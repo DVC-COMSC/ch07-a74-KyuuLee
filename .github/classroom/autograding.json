@@ -5,7 +5,7 @@
       "setup": "",
       "run": "python main.py",
       "input": "20",
-      "output": "[\\w,\\W]*5[\\w,\\W]*30[\\w,\\W]*35[\\w,\\W]*50[\\w,\\W]*",
+      "output": "[\\w,\\W]*5[\\w,\\W]*30[\\w,\\W]*30[\\w,\\W]*50[\\w,\\W]*",
       "comparison": "regex",
       "timeout": 10,
       "points": 1
